@@ -9,4 +9,4 @@ while rolled_value != sides:
     rolled_value = dice() #calling dice function to execute
     roll += 1 #counting the number of dice rolls.
     print(f"You rolled a {rolled_value}.")
-print(f"\nIt took {roll} dice rolls to finally get a {rolled_value}."
+print(f"\nIt took {roll} dice rolls to finally get a {rolled_value}.")
