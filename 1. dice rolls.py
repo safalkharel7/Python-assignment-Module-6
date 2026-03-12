@@ -5,4 +5,4 @@ def dice(): #name given to the function that rolls the dice.
 rolled_value = 0
 while rolled_value != 6:
     rolled_value = dice() #calling dice function to execute
-    print("You rolled a ", rolled_value)
+    print("You rolled a ", rolled_value

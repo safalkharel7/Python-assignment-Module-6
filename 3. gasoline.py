@@ -6,4 +6,4 @@ if gallons >= 0:
     litres = conv()
     print(f"\n{gallons} gallons is equivalent to {litres: 0.4f} litres")
 else:
-    print("\nPlease enter a positive value")
+    print("\nPlease enter a positive value"
